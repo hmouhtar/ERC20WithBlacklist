@@ -1,3 +1,3 @@
-# TokenWithGodMode
+# TokenWithBlacklist
 
-An ERC20 contract that allows the owner to arbitrarily mint, burn and transfer tokens.
+An ERC20 contract that allows the owner to blacklist addresses to prevent them from transferring and receiving tokens.
